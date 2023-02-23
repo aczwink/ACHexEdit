@@ -1,0 +1,3 @@
+#pragma once
+
+#define STRUCTURESETS_FILENAME L"STRUCTSETS"
